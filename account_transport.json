@@ -1,0 +1,11 @@
+{
+    "service": "gmail",
+    "auth": {
+      "type": "OAuth2",
+      "user": "mailsenderc@gmail.com",
+      "clientId": "819542872226-2hult52v2141a2uj2e9vdi38cajhbdhd.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04mR5UxFonuhACgYIARAAGAQSNwF-L9Ir9k_0OkOreawa-xaK10bquaPi2Wa2DP0PIEkUlM6O_IaKYrTqzqu1-Zp_osASCkABMJg"
+    }
+  }
+  
